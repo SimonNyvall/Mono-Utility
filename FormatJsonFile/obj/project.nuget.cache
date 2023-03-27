@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bt5oLbVo7YXLUxjeJViIpnOSiWj+OQjwIz11hJxCuNpWE4JCW6jgkHxwTnXL8BYDVzUhW3plMrrY0KBoopPOVg==",
+  "success": true,
+  "projectFilePath": "/Users/nyvall/Code/Simon-Utility/FormatJsonFile/FormatJsonFile.csproj",
+  "expectedPackageFiles": [
+    "/Users/nyvall/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

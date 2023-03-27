@@ -1,0 +1,17 @@
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/FormatJsonFile
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/FormatJsonFile.deps.json
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/FormatJsonFile.runtimeconfig.json
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/FormatJsonFile.dll
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/FormatJsonFile.pdb
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.csproj.AssemblyReference.cache
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.AssemblyInfoInputs.cache
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.AssemblyInfo.cs
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.csproj.CoreCompileInputs.cache
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.csproj.CopyComplete
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.dll
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/refint/FormatJsonFile.dll
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.pdb
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/FormatJsonFile.genruntimeconfig.cache
+/Users/nyvall/Code/Simon-Utility/FormatJsonFile/obj/Debug/net7.0/ref/FormatJsonFile.dll
