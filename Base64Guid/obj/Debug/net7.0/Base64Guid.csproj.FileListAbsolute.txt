@@ -1,0 +1,12 @@
+/Users/nyvall/Code/Simon-Utility/Base64Guid/bin/Debug/net7.0/Base64Guid.deps.json
+/Users/nyvall/Code/Simon-Utility/Base64Guid/bin/Debug/net7.0/Base64Guid.dll
+/Users/nyvall/Code/Simon-Utility/Base64Guid/bin/Debug/net7.0/Base64Guid.pdb
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.csproj.AssemblyReference.cache
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.AssemblyInfoInputs.cache
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.AssemblyInfo.cs
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.csproj.CoreCompileInputs.cache
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.dll
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/refint/Base64Guid.dll
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/Base64Guid.pdb
+/Users/nyvall/Code/Simon-Utility/Base64Guid/obj/Debug/net7.0/ref/Base64Guid.dll
