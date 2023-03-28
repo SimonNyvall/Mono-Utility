@@ -30,6 +30,9 @@ public class Relation
         return LinearInerpolation(normalization, destMin, destMax);
     }
 
+    // This is used for clamping the normalization if the current value is not already
+    //between 0 and 1 or if the index or the array do not begin at index 0. Can be
+    //interpreted in map construction.
     public static double Claping(double value, double min, double max)
     {
         return Math.Min(Math.Max(value, min), max);
