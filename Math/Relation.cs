@@ -7,11 +7,15 @@ public class Relation
         return (value - min) / (max - min);
     }
 
+    // denormalization is the process of trying to improve the read performance of a database, 
+    //at the expense of losing some write performance, 
+    //by adding redundant copies of data or by grouping data.
     public static double Denormalization(double value, double min, double max)
     {
         return value * (max - min) + min;
     }
 
+   
     public static double LinearInerpolation(double normalization, double min, double max)
     {
         return (max - min) * (normalization + min);
