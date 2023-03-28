@@ -15,7 +15,8 @@ public class Relation
         return value * (max - min) + min;
     }
 
-   
+    // Takes a value between 0 and 1 and return the new parameter set bu the user.
+    //Can be used for sliders.
     public static double LinearInerpolation(double normalization, double min, double max)
     {
         return (max - min) * (normalization + min);
