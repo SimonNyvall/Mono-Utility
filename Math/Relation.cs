@@ -22,6 +22,8 @@ public class Relation
         return (max - min) * (normalization + min);
     }
 
+    //This function will take the normalization function and the linear interpolation;
+    //create a construct or a variable which is relative to each-other, maping the two.
     public static double Maping(double value, double sourceMin, double sourceMax, double destMin, double destMax)
     {
         double normalization = Normalization(value, sourceMin, sourceMax);
