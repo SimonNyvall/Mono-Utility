@@ -11,5 +11,10 @@ public class Relation
         return value * (max - min) + min;
     }
 
+    public static double LinearInerpolation(double normalization, double min, double max)
+    {
+        return (max - min) * (normalization + min);
+    }
+
     
 }
