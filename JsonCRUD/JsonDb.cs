@@ -20,26 +20,26 @@ public class JsonDb <T>
         _path.Add(path);
     }
     
-    public void CreateJson(T data, int index)
+    public void Create(T data, int index)
     {
         string json = JsonConvert.SerializeObject(data, Formatting.Indented);
         
         File.WriteAllText(_path[index], json);
     }
     
-    public T ReadJson(int index)
+    public T Read(int index)
     {
         return _data[index];
     }
     
-    public void UpdateJson(T data, int index)
+    public void Update(T data, int index)
     {
         string json = JsonConvert.SerializeObject(data, Formatting.Indented);
         
         File.WriteAllText(_path[index], json);
     }
     
-    public void DeleteJson(int index)
+    public void Delete(int index)
     {
         File.Delete(_path[index]);
     }
