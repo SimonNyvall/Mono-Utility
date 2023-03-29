@@ -5,7 +5,12 @@ public class JsonDb <T>
 {
     private readonly List<string> _path = new();
     private readonly List<T> _data = new();
-    
+
+    public int Count
+    {
+        get => _path.Count;
+    }
+
     public JsonDb(string path)
     {
         if (!Path.IsPathRooted(path))
